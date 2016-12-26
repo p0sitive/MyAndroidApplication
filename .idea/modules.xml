@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DnsDemo/DnsDemo.iml" filepath="$PROJECT_DIR$/DnsDemo/DnsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FastBleLib/FastBleLib.iml" filepath="$PROJECT_DIR$/FastBleLib/FastBleLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyAndroidApplication.iml" filepath="$PROJECT_DIR$/MyAndroidApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bluetoothdemo/bluetoothdemo.iml" filepath="$PROJECT_DIR$/bluetoothdemo/bluetoothdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/libwifihelper/libwifihelper.iml" filepath="$PROJECT_DIR$/libwifihelper/libwifihelper.iml" />
       <module fileurl="file://$PROJECT_DIR$/nsdhelper/nsdhelper.iml" filepath="$PROJECT_DIR$/nsdhelper/nsdhelper.iml" />
     </modules>

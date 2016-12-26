@@ -1,1 +1,1 @@
-include ':app', ':DnsDemo', ':nsdhelper', ':libwifihelper'
+include ':app', ':DnsDemo', ':nsdhelper', ':libwifihelper', ':bluetoothdemo', ':FastBleLib'

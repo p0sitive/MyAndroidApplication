@@ -9,7 +9,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/DnsDemo" />
+            <option value="$PROJECT_DIR$/FastBleLib" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bluetoothdemo" />
             <option value="$PROJECT_DIR$/libwifihelper" />
             <option value="$PROJECT_DIR$/nsdhelper" />
           </set>
