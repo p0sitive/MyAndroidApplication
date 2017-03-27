@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/bluetoothdemo/bluetoothdemo.iml" filepath="$PROJECT_DIR$/bluetoothdemo/bluetoothdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/libwifihelper/libwifihelper.iml" filepath="$PROJECT_DIR$/libwifihelper/libwifihelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lmblelibrary/lmblelibrary.iml" filepath="$PROJECT_DIR$/lmblelibrary/lmblelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lmblelibrarydemo/lmblelibrarydemo.iml" filepath="$PROJECT_DIR$/lmblelibrarydemo/lmblelibrarydemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/nsdhelper/nsdhelper.iml" filepath="$PROJECT_DIR$/nsdhelper/nsdhelper.iml" />
     </modules>
   </component>
